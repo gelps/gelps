@@ -1,4 +1,4 @@
-### Hi there 👋 Thanks for checking out my GitHub page!
+## Hi there 👋 Thanks for checking out my GitHub page!
 
 My name is Jeffrey and I'm currently a 4th year student studying Computer Science at the University of British Columbia with an expected graduation date of May 2021.
 
